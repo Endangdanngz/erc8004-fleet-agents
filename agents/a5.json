@@ -1,0 +1,8 @@
+{
+  "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+  "name": "kipas77 Fleet Agent A5",
+  "description": "Autonomous agent wallet operated on BNB Smart Chain. This ERC-8004 identity was registered to establish an on-chain agent identity ahead of the ERC-8183 agent-commerce ecosystem. No live service endpoint is offered yet.",
+  "image": "",
+  "services": [],
+  "registrations": []
+}
